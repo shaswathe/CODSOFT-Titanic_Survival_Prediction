@@ -1,5 +1,5 @@
-# CODSOFT
-CodSoft Internship Projects — Data Science &amp; ML tasks
+# CODSOFT-Titanic-Survival-Prediction
+CodSoft Internship Projects — Data Science - Task01
 
 # Titanic Survival Prediction — CodSoft Internship
 
@@ -22,8 +22,3 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 - Best Model: Random Forest
 - Accuracy: 82.5%
 - Key Features: Sex, Pclass, Fare, Title
-
-## 🧪 How to Run
-```bash
-pip install -r Titanic_Survival_requirements.txt
-jupyter notebook Titanic_Survival_Prediction.ipynb
